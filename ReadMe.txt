@@ -1,5 +1,8 @@
-The core code for the paper submitted to PLOS ONE
-"Gaussian mixture models and model selection for [18F] fluorodeoxyglucose positron emission tomography classification in Alzheimer’s disease"
+The core code for the PLOS ONE paper.
+
+Li R1, Perneczky R2, Yakushev I3, Förster S3, Kurz A2, Drzezga A4, Kramer S5; Alzheimer’s Disease Neuroimaging Initiative.
+Gaussian Mixture Models and Model Selection for [18F] Fluorodeoxyglucose Positron Emission Tomography Classification in Alzheimer's Disease.
+PLoS ONE. 2015 Apr 28;10(4)
 
 Because we are not allowed to distribute any images of ADNI, so that we can only provide the core code.
 The PET image file must be in size [91 109 91].
